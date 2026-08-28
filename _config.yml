@@ -15,7 +15,7 @@ name                     : &name "Weiyuan Li"
 description              : &description "Researcher working on LLM post-training, reward modeling, and autonomous agents."
 url                      : https://lll1230127.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lll1230127/lll1230127.github.io"
+repository               : "KuroIsCoding/lll1230127.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/lll1230127/"
+  github           : "https://github.com/KuroIsCoding/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -144,7 +144,7 @@ social:
   type                   : Person
   name                   : Weiyuan Li
   links:
-    - https://github.com/lll1230127
+    - https://github.com/KuroIsCoding
     - https://scholar.google.com/citations?user=PS_CX0AAAAAJ
 
 

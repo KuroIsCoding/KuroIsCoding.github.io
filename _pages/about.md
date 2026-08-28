@@ -20,8 +20,7 @@ redirect_from:
       <nav class="profile-links" aria-label="Academic profiles">
         <a href="mailto:25210980069@m.fudan.edu.cn" aria-label="Email" title="Email"><i class="fas fa-envelope"></i></a>
         <a href="https://scholar.google.com/citations?user=PS_CX0AAAAAJ" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-        <a href="https://github.com/lll1230127" aria-label="GitHub" title="GitHub"><i class="fab fa-github"></i></a>
-        <a class="profile-cv" href="/files/Weiyuan-Li-CV.pdf" title="Curriculum Vitae">CV</a>
+        <a href="https://github.com/KuroIsCoding" aria-label="GitHub" title="GitHub"><i class="fab fa-github"></i></a>
       </nav>
     </aside>
 
