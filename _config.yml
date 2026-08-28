@@ -13,9 +13,9 @@ title                    : Weiyuan Li
 title_separator          : "-"
 name                     : &name "Weiyuan Li"
 description              : &description "Researcher working on LLM post-training, reward modeling, and autonomous agents."
-url                      : https://lll1230127.github.io
+url                      : https://kuroiscoding.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "KuroIsCoding/lll1230127.github.io"
+repository               : "KuroIsCoding/KuroIsCoding.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
