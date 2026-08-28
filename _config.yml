@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zn-CN"
+locale                   : "en-US"
 site_theme               : "default"
-title                    : Weiyuan Li / Homepage
+title                    : Weiyuan Li
 title_separator          : "-"
 name                     : &name "Weiyuan Li"
-description              : &description "21 NKUcs -> 25 FDUds"
+description              : &description "Researcher working on LLM post-training, reward modeling, and autonomous agents."
 url                      : https://lll1230127.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lll1230127/lll1230127.github.io"
@@ -22,23 +22,23 @@ repository               : "lll1230127/lll1230127.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "屏幕截图(69).png"
+  avatar           : "images/weiyuan-li.jpg"
   name             : "Weiyuan Li"
   pronouns         : 
-  bio              : "email：weiyuanli127@gmail.com"
-  location         : "Tianjin China "
-  employer         : "Nankai University"
+  bio              : "LLM post-training, reward modeling, and agents."
+  location         : "Shanghai, China"
+  employer         : "Fudan University"
   uri              : # URL
-  email            : "weiyuanli127@gmail.com" 
+  email            : "25210980069@m.fudan.edu.cn"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     : # URL
   scopus           : # URL
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -137,13 +137,15 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : /images/weiyuan-li.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Weiyuan Li
+  links:
+    - https://github.com/lll1230127
+    - https://scholar.google.com/citations?user=PS_CX0AAAAAJ
 
 
 # Analytics
