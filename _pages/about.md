@@ -43,13 +43,6 @@ redirect_from:
             <li><i class="fas fa-book-open"></i> Coding / Work Agents</li>
           </ul>
         </div>
-        <div>
-          <h3>Education</h3>
-          <ul class="education-list">
-            <li><i class="fas fa-graduation-cap"></i><span><strong>M.Sc. in Data Science, 2025–2028</strong><small>Fudan University</small></span></li>
-            <li><i class="fas fa-graduation-cap"></i><span><strong>B.Eng. in Computer Science, 2021–2025</strong><small>Nankai University</small></span></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>
@@ -66,20 +59,27 @@ redirect_from:
       <li><time>Mar. 2026</time><div><span class="news-title">🎊 Two collaborative works were accepted to ACL 2026.</span><span class="news-detail"><em>HumanLLM: Benchmarking and Improving LLM Anthropomorphism via Human Cognitive Patterns</em> was accepted to Main, and <em>HER: Human-like Reasoning and Reinforcement Learning for LLM Role-playing</em> to Findings.</span></div></li>
       <li><time>Jan. 2026</time><div><span class="news-title">📝 Released the HumanLLM and HER preprints.</span><span class="news-detail">These projects study complementary aspects of human-like agents: interacting cognitive patterns and explicit reasoning with human-aligned reward signals.</span></div></li>
       <li><time>Nov. 2025</time><div><span class="news-title">📖 Presented <a href="https://aclanthology.org/2025.findings-emnlp.805/">Curse of Knowledge: Your Guidance and Provided Knowledge are biasing LLM Judges in Complex Evaluation</a> at EMNLP 2025.</span><span class="news-detail">Our first-author work reveals five guidance-induced biases and introduces ComplexEval-Bench for reliable evaluation of LLM judges.</span></div></li>
+      <li><time>Oct. 2025</time><div><span class="news-title">🔬 Joined <strong>Tsinghua University AIR</strong> as a research intern in the GenSI Lab.</span><span class="news-detail">I built Search Agent and agentic-retrieval components for AI4Science, including reflective retrieval over 13 million text chunks and stateful auto-research loops.</span></div></li>
       <li><time>Sep. 2025</time><div><span class="news-title">🎓 Started my M.Sc. study at <strong>Fudan University</strong>.</span><span class="news-detail">I joined the Knowledge Works Lab to study LLM post-training, reward modeling, multi-turn reinforcement learning, and self-evolving agents.</span></div></li>
-      <li><time>Sep. 2025</time><div><span class="news-title">🔬 Joined <strong>Tsinghua University AIR</strong> as a research intern in the GenSI Lab.</span><span class="news-detail">I built Search Agent and agentic-retrieval components for AI4Science, including reflective retrieval over 13 million text chunks and stateful auto-research loops.</span></div></li>
       <li><time>Aug. 2025</time><div><span class="news-title">🎉 <a href="https://aclanthology.org/2025.findings-emnlp.805/">Curse of Knowledge: Your Guidance and Provided Knowledge are biasing LLM Judges in Complex Evaluation</a> was accepted to EMNLP 2025 Findings.</span><span class="news-detail">This was my first paper as first author and established my research direction in reliable LLM evaluation and reward modeling.</span></div></li>
       <li><time>Jun. 2025</time><div><span class="news-title">🎓 Graduated from <strong>Nankai University</strong> as an Outstanding Graduate.</span><span class="news-detail">I received my B.Eng. in Computer Science with a GPA of 3.89/4.0, ranked 7th among 140 students.</span></div></li>
     </ul>
   </section>
 
+  <section class="academic-section" id="education">
+    <h2>Education</h2>
+    <div class="experience-list">
+      <article class="experience-row"><div class="org-logo org-logo--seal"><img src="/images/organizations/fudan.svg" alt="Fudan University logo"></div><div class="experience-main"><h3><span class="experience-emoji">🎓</span> Fudan University</h3><p class="position">M.Sc. in Data Science · School of Data Science</p><p>Graduate study in the Knowledge Works Lab, advised by Prof. Yanghua Xiao and Prof. Deqing Yang, with research on LLM post-training, reward modeling, reinforcement learning, and autonomous agents.</p></div><div class="experience-meta"><strong>Sep. 2025 – Present</strong><span>Shanghai, China</span></div></article>
+      <article class="experience-row"><div class="org-logo org-logo--seal"><img src="https://ymgrad.com/media/logo/1200px-Nankai_University_logo.svg.png" alt="Nankai University logo"></div><div class="experience-main"><h3><span class="experience-emoji">🎓</span> Nankai University</h3><p class="position">B.Eng. in Computer Science</p><p>Graduated with a GPA of 3.89/4.0 (ranked 7/140) and was recognized as an Outstanding Graduate of Nankai University.</p></div><div class="experience-meta"><strong>Sep. 2021 – Jun. 2025</strong><span>Tianjin, China</span></div></article>
+    </div>
+  </section>
+
   <section class="academic-section" id="experience">
-    <h2>Experience</h2>
+    <h2>Research &amp; Industry Experience</h2>
     <div class="experience-list">
       <article class="experience-row"><div class="org-logo"><img src="/images/organizations/stepfun.png" alt="StepFun logo"></div><div class="experience-main"><h3><span class="experience-emoji">🚀</span> StepFun</h3><p class="position">Foundation Model Post-training · Work Agents</p><p>Working on long-horizon task execution, tool use, and post-training signals for agents operating in realistic knowledge-work environments.</p></div><div class="experience-meta"><strong>Aug. 2026 – Present</strong><span>Shanghai, China</span></div></article>
       <article class="experience-row"><div class="org-logo"><img src="/images/organizations/bytedance.svg" alt="ByteDance logo"></div><div class="experience-main"><h3><span class="experience-emoji">💻</span> ByteDance · AI Data</h3><p class="position">Coding Agent Capability Improvement · Collaboration with Seed</p><p>Worked with the Seed team to improve coding-agent capabilities through data construction, trajectory curation, executable feedback, and repository-level training and evaluation environments.</p></div><div class="experience-meta"><strong>Jun. 2026 – Aug. 2026</strong><span>China</span></div></article>
-      <article class="experience-row"><div class="org-logo org-logo--seal"><img src="/images/organizations/fudan.svg" alt="Fudan University logo"></div><div class="experience-main"><h3><span class="experience-emoji">🎓</span> Knowledge Works Lab · Fudan University</h3><p class="position">Graduate Researcher</p><p>Research on LLM post-training, reward modeling, multi-turn reinforcement learning, and self-evolving agents. Recent projects span behavior-aware coding-agent harness evolution and learning from long-term social experience in multi-agent societies.</p></div><div class="experience-meta"><strong>Sep. 2025 – Present</strong><span>Shanghai, China</span></div></article>
-      <article class="experience-row"><div class="org-logo"><img src="/images/organizations/tsinghua-air.png" alt="Tsinghua AIR logo"></div><div class="experience-main"><h3><span class="experience-emoji">🔬</span> Tsinghua University · Institute for AI Industry Research</h3><p class="position">Research Intern, GenSI Lab</p><p>Built research-agent components for AI4Science. I worked on hierarchical skill orchestration, reflective retrieval over 13 million text chunks, stateful auto-research loops, and trajectory distillation for multimodal protein-structure reasoning.</p></div><div class="experience-meta"><strong>Sep. 2025 – Apr. 2026</strong><span>Beijing, China</span></div></article>
+      <article class="experience-row"><div class="org-logo"><img src="/images/organizations/tsinghua-air.png" alt="Tsinghua AIR logo"></div><div class="experience-main"><h3><span class="experience-emoji">🔬</span> Tsinghua University · Institute for AI Industry Research</h3><p class="position">Research Intern, GenSI Lab</p><p>Built research-agent components for AI4Science. I worked on hierarchical skill orchestration, reflective retrieval over 13 million text chunks, stateful auto-research loops, and trajectory distillation for multimodal protein-structure reasoning.</p></div><div class="experience-meta"><strong>Oct. 2025 – Apr. 2026</strong><span>Beijing, China</span></div></article>
     </div>
   </section>
 
